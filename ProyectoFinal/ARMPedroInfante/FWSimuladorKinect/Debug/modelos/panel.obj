@@ -1,0 +1,12 @@
+# Blender v2.68 (sub 0) OBJ File: 'barco_final.blend'
+# www.blender.org
+mtllib panel.mtl
+o Plane
+v 44.360783 3.084686 34.053913
+v 20.360722 3.084686 34.053913
+v 44.360783 27.084747 34.053928
+v 20.360722 27.084747 34.053928
+vn 0.000000 0.000001 -1.000000
+usemtl None
+s off
+f 2//1 4//1 3//1 1//1
